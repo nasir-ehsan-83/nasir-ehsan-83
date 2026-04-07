@@ -64,18 +64,6 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ---
 
-## 📦 Featured Projects
-
-<p>
-
-<a href="https://github.com/nasir-ehsan-83">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nasir-ehsan-83&repo=fastapi-social-api&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 ## 📊 Profile Summary Card
 
 <p align="center">
