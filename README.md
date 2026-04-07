@@ -59,7 +59,7 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ### 🧰 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 </p>
 
 ---
