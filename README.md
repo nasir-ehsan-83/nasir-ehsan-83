@@ -79,13 +79,34 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ## 📫 Contact
 
-<p align="center">
+<div align="left">
 
-📧 Email: nasirahmadehsan1383@gmail.com  
-🌐 LinkedIn: linkedin.com/in/nasirehsan83  
-💻 GitHub: github.com/nasir-ehsan-83  
+<div>
 
-</p>
+📧 **Email**  
+<code>nasirahmadehsan1383@gmail.com</code>
+
+</div>
+
+<br/>
+
+<div>
+
+🌐 **LinkedIn**  
+<a href="https://linkedin.com/in/nasirehsan83">linkedin.com/in/nasirehsan83</a>
+
+</div>
+
+<br/>
+
+<div>
+
+💻 **GitHub**  
+<a href="https://github.com/nasir-ehsan-83">github.com/nasir-ehsan-83</a>
+
+</div>
+
+</div>
 
 ---
 
