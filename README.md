@@ -45,7 +45,7 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ### ⚙️ Backend & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,qt" />
 </p>
 
 ---
