@@ -25,6 +25,19 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ---
 
+## 🌟 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="https://github.com">fastapi-social-app</a></h4>
+      <p>A high-performance social media backend engine. Built with a focus on asynchronous operations, JWT security, and scalable architecture.</p>
+      <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📈 Contribution Graph
 
@@ -110,8 +123,12 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ---
 
-## ⚡ Closing
+## ⚡ Let's Build Something Together
 
-<p align="center">
-I enjoy building real systems, solving real problems, and constantly improving as a developer 🚀
+<p>
+I’m a developer who believes the best code is written through collaboration and curiosity.<br/> 
+<b>Whether it’s a chat about Python bottlenecks, Rust's memory safety, or a potential internship opportunity—my inbox is always open!</b>
+<br/><br/>
+<i>Let’s turn complex ideas into elegant reality. 🚀</i>
 </p>
+
