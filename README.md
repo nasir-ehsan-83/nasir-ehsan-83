@@ -30,9 +30,18 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com">fastapi-social-app</a></h4>
-      <p>A high-performance social media backend engine. Built with a focus on asynchronous operations, JWT security, and scalable architecture.</p>
+      <h4>🚀 <a href="https://github.com/nasir-ehsan-83/fastapi-social-app">fastapi-social-app</a></h4>
+      <p>
+        A high-performance social media backend engine. Built with a focus on asynchronous operations, JWT security, and scalable architecture.
+      </p>
       <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🦀 <a href="https://github.com/nasir-ehsan-83/my_collections-rust">my_collections-rust</a></h4>
+      <p>
+        A performance-focused Rust library implementing core algorithms and data structures, designed for both efficiency and deep learning of computer science concepts.
+      </p>
+      <code>Rust</code> <code>Algorithms</code> <code>Data Structures</code> <code>Systems</code>
     </td>
   </tr>
 </table>
@@ -51,28 +60,28 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,rust,c,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp" />
 </p>
 
 ---
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Frontend & Backend Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,qt" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,qt" />
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
 ---
 
 ### 🧰 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
 ---
