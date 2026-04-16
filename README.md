@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nasir Ahmad Ehsan</h1>
 
 <h3 align="center">
-Backend Developer | System Programmer | AI Enthusiast
+Backend Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-I build scalable backend systems, design APIs, and explore how software works under the hood.<br>
-I enjoy turning complex problems into clean, efficient, and real-world solutions.
+I build backend logic and design APIs that do the heavy lifting. I don't just write code; I try to find the shortest, smartest path to solving a problem so the end product feels seamless.
 </p>
 
 ---
@@ -67,14 +66,14 @@ I enjoy turning complex problems into clean, efficient, and real-world solutions
 
 ### ⚙️ Frontend & Backend Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,qt" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,qt" />
 </p>
 
 ---
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ---
