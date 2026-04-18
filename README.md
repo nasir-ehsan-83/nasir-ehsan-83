@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasir Ahmad Ehsan</h1>
 
 <h3 align="center">
-Backend Developer | AI Enthusiast
+junior Backend Developer | AI Enthusiast
 </h3>
 
 <p align="center">
