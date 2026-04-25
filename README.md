@@ -65,8 +65,9 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 ---
 
 ### ⚙️ Frontend & Backend Frameworks
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,qt" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt" />
 </p>
 
 ---
