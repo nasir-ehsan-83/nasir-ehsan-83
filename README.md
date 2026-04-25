@@ -24,10 +24,50 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 
 ---
 
+## ⚡ Core Arsenal
+
+<p align="center">
+  <b>⚡ Core Arsenal</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,rust,java,postgresql,docker,git,linux,postman" />
+</p>
+
+<p align="center">
+  <i>🐍 Python • 🚀 FastAPI • 🦀 Rust • ☕ Java • 🐘 PostgreSQL • 🐳 Docker • 🐧 Linux • 📬 Postman</i>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp" />
+</p>
+
+### ⚙️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 <table width="100%">
-  <tr>
+  <td>
     <td width="50%" valign="top">
       <h4>🚀 <a href="https://github.com/nasir-ehsan-83/fastapi-social-app">fastapi-social-app</a></h4>
       <p>
@@ -42,46 +82,19 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
       </p>
       <code>Rust</code> <code>Algorithms</code> <code>Data Structures</code> <code>Systems</code>
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ehsan-83&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ehsan-83&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey" />
 </p>
 
----
-
-## 🧠 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp" />
-</p>
-
----
-
-### ⚙️ Frontend & Backend Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt" />
-</p>
-
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
----
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
+<p align="center">
+  <i>🔥 Every commit is a step toward mastery</i>
 </p>
 
 ---
@@ -103,30 +116,20 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 
 <div align="left">
 
-<div>
-
 📧 **Email**  
 <code>nasirahmadehsan1383@gmail.com</code>
 
-</div>
-
 <br/>
-
-<div>
+<br/>
 
 🌐 **LinkedIn**  
 <a href="https://linkedin.com/in/nasirehsan83">linkedin.com/in/nasirehsan83</a>
 
-</div>
-
 <br/>
-
-<div>
+<br/>
 
 💻 **GitHub**  
 <a href="https://github.com/nasir-ehsan-83">github.com/nasir-ehsan-83</a>
-
-</div>
 
 </div>
 
@@ -135,9 +138,8 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 ## ⚡ Let's Build Something Together
 
 <p>
-I’m a developer who believes the best code is written through collaboration and curiosity.<br/> 
-<b>Whether it’s a chat about Python bottlenecks, Rust's memory safety, or a potential internship opportunity—my inbox is always open!</b>
+I'm a developer who believes the best code is written through collaboration and curiosity.<br/> 
+<b>Whether it's a chat about Python bottlenecks, Rust's memory safety, or a potential internship opportunity—my inbox is always open!</b>
 <br/><br/>
-<i>Let’s turn complex ideas into elegant reality. 🚀</i>
+<i>Let's turn complex ideas into elegant reality. 🚀</i>
 </p>
-
