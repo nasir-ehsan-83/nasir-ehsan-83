@@ -27,15 +27,11 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 ## ⚡ Core Arsenal
 
 <p align="center">
-  <b>⚡ Core Arsenal</b>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,rust,java,postgresql,docker,git,linux,postman" />
 </p>
 
 <p align="center">
-  <i>🐍 Python • 🚀 FastAPI • 🦀 Rust • ☕ Java • 🐘 PostgreSQL • 🐳 Docker • 🐧 Linux • 📬 Postman</i>
+  <i>Python • FastAPI • Rust • Java • PostgreSQL • Docker • Linux • Postman</i>
 </p>
 
 ---
