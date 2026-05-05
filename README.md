@@ -31,7 +31,7 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 </p>
 
 <p align="center">
-  <i>Python • FastAPI • Rust • Java • PostgreSQL • Docker • Linux • Postman</i>
+  <i>Python • FastAPI • Rust • Java • PostgreSQL • Docker • Git • Linux • Postman</i>
 </p>
 
 ---
