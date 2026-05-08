@@ -45,7 +45,7 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 
 ### ⚙️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 ### 🗄️ Databases
