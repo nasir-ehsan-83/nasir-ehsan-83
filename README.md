@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nasir Ahmad Ehsan</h1>
-
-<h3 align="center">
-junior Backend Developer | AI Enthusiast
-</h3>
+<h3 align="center">Software Engineering Student | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-I build backend logic and design APIs that do the heavy lifting. I don't just write code; I try to find the shortest, smartest path to solving a problem so the end product feels seamless.
+  I build backend logic and design APIs that do the heavy lifting. Currently in my 4th semester of Software Engineering, I focus on finding the shortest, smartest path to solving complex problems so the end product feels seamless.
 </p>
 
 ---
@@ -13,14 +10,14 @@ I build backend logic and design APIs that do the heavy lifting. I don't just wr
 ## 👨‍💻 About Me
 
 <p>
-🚀 AI Intern at SkyTeams • 💻 Backend Developer 
+  🚀 <b>AI Intern at SkyTeams</b> • 💻 <b>Backend Developer</b>
 </p>
 
-- 🔭 Currently working on AI & backend systems  
-- 💻 Focused on Python, FastAPI, Rust, Java  
-- 🧠 Interested in Operating Systems & Programming Languages  
-- ⚙️ Love low-level thinking + high-level architecture  
-- 🌍 Open to internships, remote roles & collaborations  
+- 🔭 **Currently:** Developing AI-driven systems and scalable backend architectures.
+- 💻 **Tech Stack:** Specialized in Python (FastAPI), with a deep interest in Rust and Java.
+- 🧠 **Focus:** Operating Systems, Programming Language Theory, and Low-level optimization.
+- ⚙️ **Philosophy:** I love the bridge between low-level thinking and high-level architecture.
+- 🌍 **Goal:** Open to internships, remote roles, and high-impact collaborations.
 
 ---
 
