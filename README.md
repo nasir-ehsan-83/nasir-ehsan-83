@@ -105,29 +105,6 @@
 
 ---
 
-## 📫 Contact
-
-<div align="left">
-
-📧 **Email**  
-<code>nasirahmadehsan1383@gmail.com</code>
-
-<br/>
-<br/>
-
-🌐 **LinkedIn**  
-<a href="https://linkedin.com/in/nasirehsan83">linkedin.com/in/nasirehsan83</a>
-
-<br/>
-<br/>
-
-💻 **GitHub**  
-<a href="https://github.com/nasir-ehsan-83">github.com/nasir-ehsan-83</a>
-
-</div>
-
----
-
 ## ⚡ Let's Build Something Together
 
 <p>
