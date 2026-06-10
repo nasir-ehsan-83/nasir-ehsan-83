@@ -37,12 +37,12 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,rust,c,cpp" />
 </p>
 
 ### ⚙️ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs" />
 </p>
 
 ### 🗄️ Databases
