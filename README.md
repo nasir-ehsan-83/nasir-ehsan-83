@@ -13,7 +13,7 @@
   🚀 <b>AI Intern at SkyTeams</b> • 💻 <b>Backend Developer</b>
 </p>
 
-- 🔭 **Currently:** Developing AI-driven systems and scalable backend architectures.
+- 🔭 **Currently:** Building backend applications and exploring AI-powered solutions.
 - 💻 **Tech Stack:** Specialized in Python (FastAPI), with a deep interest in Rust and Java.
 - 🧠 **Focus:** Operating Systems, Programming Language Theory, and Low-level optimization.
 - ⚙️ **Philosophy:** I love the bridge between low-level thinking and high-level architecture.
@@ -25,10 +25,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,rust,java,postgresql,docker,git,linux,postman" />
-</p>
-
-<p align="center">
-  <i>Python • FastAPI • Rust • Java • PostgreSQL • Docker • Git • Linux • Postman</i>
 </p>
 
 ---
@@ -59,28 +55,49 @@
 
 ## 🌟 Featured Projects
 
-<table width="100%">
-  <td>
-    <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/nasir-ehsan-83/fastapi-social-app">fastapi-social-app</a></h4>
-      <p>
-        A high-performance social media backend engine. Built with a focus on asynchronous operations, JWT security, and scalable architecture.
-      </p>
-      <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🦀 <a href="https://github.com/nasir-ehsan-83/my_collections-rust">my_collections-rust</a></h4>
-      <p>
-        A performance-focused Rust library implementing core algorithms and data structures, designed for both efficiency and deep learning of computer science concepts.
-      </p>
-      <code>Rust</code> <code>Algorithms</code> <code>Data Structures</code> <code>Systems</code>
-    </td>
-   </tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### 🚀 fastapi-social-app
+A high-performance social media backend engine with async design, JWT security and scalable architecture.
+
+**Tech Stack:**  
+`Python` `FastAPI` `PostgreSQL` `Docker`
+
+🔗 [Repo](https://github.com/nasir-ehsan-83/fastapi-social-app)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🦀 my_collections-rust
+Performance-focused Rust library for algorithms and data structures.
+
+**Tech Stack:**  
+`Rust` `Algorithms` `Data Structures` `Systems`
+
+🔗 [Repo](https://github.com/nasir-ehsan-83/my_collections-rust)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 habit-tracker-service
+Backend service built with FastAPI and MongoDB, focused on scalability.
+
+**Tech Stack:**  
+`Python` `FastAPI` `MongoDB` `JWT` `Docker`
+
+🔗 [Repo](https://github.com/nasir-ehsan-83/habit-tracker-service)
+
+</td>
+  </tr>
 </table>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Journey
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasir-ehsan-83&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey" />
@@ -92,24 +109,33 @@
 
 ---
 
-## 📊 Profile Summary Card
-
+<!-- Profile Details -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-ehsan-83&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nasir-ehsan-83&theme=tokyonight" width="100%" />
 </p>
 
+<!-- Stats + Commit UTC -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasir-ehsan-83&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasir-ehsan-83&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nasir-ehsan-83&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nasir-ehsan-83&theme=tokyonight&utcOffset=0" width="49%" />
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nasir-ehsan-83&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nasir-ehsan-83&theme=tokyonight" width="49%" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nasir-ehsan-83&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-## ⚡ Let's Build Something Together
+## 🤝 Let's Connect
 
-<p>
-I'm a developer who believes the best code is written through collaboration and curiosity.<br/> 
-<b>Whether it's a chat about Python bottlenecks, Rust's memory safety, or a potential internship opportunity—my inbox is always open!</b>
-<br/><br/>
-<i>Let's turn complex ideas into elegant reality. 🚀</i>
-</p>
+I'm always open to discussing backend development,
+systems programming, AI, and internship opportunities.
+
+📫 Feel free to reach out!
