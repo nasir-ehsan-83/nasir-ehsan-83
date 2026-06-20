@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  I build backend logic and design APIs that do the heavy lifting. Currently in my 4th semester of Software Engineering, I focus on finding the shortest, smartest path to solving complex problems so the end product feels seamless.
+  I build backend logic and design APIs that do the heavy lifting. Currently in my Software Engineering Undergraduate with a focus on Backend Systems and AI., I focus on finding the shortest, smartest path to solving complex problems so the end product feels seamless.
 </p>
 
 ---
