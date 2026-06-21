@@ -59,7 +59,7 @@
   <tr>
     <td width="33%" valign="top">
 
-### 🚀 fastapi-social-app
+### 🚀 gapgram-app
 A high-performance social media backend engine with async design, JWT security and scalable architecture.
 
 **Tech Stack:**  
