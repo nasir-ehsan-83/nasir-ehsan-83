@@ -59,7 +59,7 @@
   <tr>
     <td width="33%" valign="top">
 
-### 🚀 gapgram-app
+### 🚀 afghan-gap
 A high-performance social media backend engine with async design, JWT security and scalable architecture.
 
 **Tech Stack:**  
