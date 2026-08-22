@@ -51,11 +51,11 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> -->
 </p>
 <!--
 <p><strong>☁️ Cloud & Deployment</strong></p>
@@ -72,7 +72,7 @@
 
 ## 🌟 Featured Projects
 
-### 🚀 SocialFlow API
+### 🚀 GapGram
 A high-performance social media backend engine with async design, JWT security and scalable architecture.
 
 **Tech Stack:** `Python` `FastAPI` `PostgreSQL` `Docker`
@@ -81,7 +81,7 @@ A high-performance social media backend engine with async design, JWT security a
 
 ---
 
-### 🦀 RustCore Collections
+### 🦀 DSA(datastructure & algorithm)
 Performance-focused Rust library for algorithms and data structures.
 
 **Tech Stack:** `Rust` `Algorithms` `Data Structures` `Systems`
