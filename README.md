@@ -81,12 +81,12 @@ A high-performance social media backend engine with async design, JWT security a
 
 ---
 
-### 🦀 DSA(datastructure & algorithm)
+### 🦀 Rust-DSA(datastructure & algorithm)
 Performance-focused Rust library for algorithms and data structures.
 
 **Tech Stack:** `Rust` `Algorithms` `Data Structures` `Systems`
 
-🔗 [Repo](https://github.com/nasir-ehsan-83/my_collections-rust)
+🔗 [Repo](https://github.com/nasir-ehsan-83/rust-dsa)
 
 ---
 
