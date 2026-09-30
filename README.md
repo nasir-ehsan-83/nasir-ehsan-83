@@ -14,7 +14,7 @@
 </p>
 
 - 🔭 **Currently:** Building backend applications and exploring AI-powered solutions.
-- 💻 **Tech Stack:** Specialized in Python (FastAPI), with a deep interest in Rust and Java.
+- 💻 **Tech Stack:** Specialized in Python (FastAPI), with a deep interest in Rust and TypeScript.
 - 🧠 **Focus:** Operating Systems, Programming Language Theory, and Low-level optimization.
 - ⚙️ **Philosophy:** I love the bridge between low-level thinking and high-level architecture.
 - 🌍 **Goal:** Open to internships, remote roles, and high-impact collaborations.
