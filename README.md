@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering | Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  I build backend logic and design APIs that do the heavy lifting. Currently in my Software Engineering Undergraduate with a focus on Backend Systems and AI., I focus on finding the shortest, smartest path to solving complex problems so the end product feels seamless.
+  I build backend applications and APIs, and I'm currently studying Software Engineering with a focus on Backend Systems and AI. I enjoy solving problems, learning how systems work, and building practical software.
 </p>
 
 ---
@@ -13,12 +13,12 @@
   🚀 <b>AI Intern at SkyTeams</b> • 💻 <b>Backend Developer</b>
 </p>
 
-- 🔭 **Currently:** Building backend applications and exploring AI-powered solutions.
-- 💻 **Tech Stack:** Specialized in Python (FastAPI), with a deep interest in Rust and TypeScript.
-- 🧠 **Focus:** Operating Systems, Programming Language Theory, and Low-level optimization.
-- ⚙️ **Philosophy:** I love the bridge between low-level thinking and high-level architecture.
-- 🌍 **Goal:** Open to internships, remote roles, and high-impact collaborations.
-
+- 🔭 **Currently:** Building backend applications and exploring AI.
+- 💻 **Tech Stack:** Python (FastAPI), TypeScript/Node.js, and Rust.
+- 🧠 **Interests:** Backend Systems, AI, Operating Systems, and Programming Languages.
+- ⚙️ **Focus:** Writing clean, efficient, and reliable software.
+- 🌍 **Goal:** Keep learning, build real projects, and grow as a software engineer.
+  
 ---
 
 ## 🧠 Tech Stack
